@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "623904532850",
+    "firebase_url": "https://ahmednasatest.firebaseio.com",
+    "project_id": "ahmednasatest",
+    "storage_bucket": "ahmednasatest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623904532850:android:af491f797c5dc48b",
+        "android_client_info": {
+          "package_name": "com.ahmednasatest.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623904532850-n3ld7bhkehrkrcbfckinb00m1ss6bobr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HodEIpIgq-bXJFFeeNJwjsoI4DKS2NM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623904532850:android:2b6065e31659e7f6",
+        "android_client_info": {
+          "package_name": "com.phonegap.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623904532850-n3ld7bhkehrkrcbfckinb00m1ss6bobr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HodEIpIgq-bXJFFeeNJwjsoI4DKS2NM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
